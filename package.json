@@ -1,12 +1,16 @@
 {
-  "name": "v-bump",
-  "version": "0.0.1",
+  "name": "bump-v",
+  "version": "0.0.2",
   "description": "Version bumper for package.json",
   "bin": "index.js",
   "main": "index.js",
   "author": {
     "name": "Daniel Cañada García",
     "email": "d4nicoder@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d4nicoder/bump-v"
   },
   "license": "MIT"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "bump-v",
-  "version": "0.0.2",
+  "name": "push-version",
+  "version": "0.0.4",
   "description": "Version bumper for package.json",
   "bin": "index.js",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/d4nicoder/bump-v"
+    "url": "https://github.com/d4nicoder/push-version"
   },
   "license": "MIT"
 }

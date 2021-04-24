@@ -1,0 +1,12 @@
+{
+  "name": "v-bump",
+  "version": "0.0.1",
+  "description": "Version bumper for package.json",
+  "bin": "index.js",
+  "main": "index.js",
+  "author": {
+    "name": "Daniel Cañada García",
+    "email": "d4nicoder@gmail.com"
+  },
+  "license": "MIT"
+}

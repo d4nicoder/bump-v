@@ -43,6 +43,8 @@ if (type === 'patch') {
   ver = ver.splice(0, 3)
 }
 
+console.log(`Updating ${type} version from "${json.version}" to "${ver.join('.')}"`)
+
 json.version = ver.join('.')
 
 fs.writeFileSync(jsonFile, JSON.stringify(json, null, '  '))

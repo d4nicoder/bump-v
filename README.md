@@ -1,4 +1,4 @@
-# v-bump
+# push-version
 
 Simple utility to update the version in package.json.
 
@@ -6,16 +6,16 @@ Simple utility to update the version in package.json.
 
 ```bash
 # To increment the patch version
-npx v-bump patch
+npx push-version patch
 
 # To increment the minor version
-npx v-bump minor
+npx push-version minor
 
 # To increment the major version
-npx v-bump major
+npx push-version major
 ```
 
 
-To report bugs or suggestions, please go to my Github repository on github.com/d4nicoder/v-bump
+To report bugs or suggestions, please go to my Github repository on github.com/d4nicoder/push-version
 
 Enjoy!

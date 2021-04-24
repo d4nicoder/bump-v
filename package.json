@@ -1,6 +1,6 @@
 {
   "name": "push-version",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Version bumper for package.json",
   "bin": "index.js",
   "main": "index.js",
